@@ -1,0 +1,22 @@
+
+# View this cheatsheet via command
+# **pandoc cheatsheet.md | lynx -stdin**
+
+# Cheatsheet
+
+1.  **Start a new    Session**       :   tmux new -s sessionName
+2.  **Detaching from Session**       :   ctrl+b d
+3.  Listing current Sessions         :   tmux ls
+4.  **Attaching to a Session**       :   tmux attach-session -t sessionName
+5.  Create a new Window              :   ctrl+b c
+6.  Choose Window from a list        :   ctrl+b w
+7.  Switch to Window 0(by number)    :   ctrl+b 0
+8.  Rename the curr Window           :   ctrl+b ,
+9.  **Split curr pane horizontally   :   ctrl+b %
+10. **Split curr pane vertically     :   ctrl+b "
+11. **Go to next pane                :   ctrl+b o
+12. **Toggle b/w curr & prev pane    :   ctrl+b ;
+13. **Close the current pane         :   ctrl+b x
+14. **Scrolling**                    :   ctrl+b [
+
+
