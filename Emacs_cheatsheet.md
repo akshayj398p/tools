@@ -22,4 +22,6 @@
   * Quit Agenda mode: q
   * Fellow mode: S-f
   * Add file to top of agenda: C-C, sqOpBr
-  * 
+  * Next Week: f
+  * Back 1 Week: b
+
