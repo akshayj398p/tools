@@ -29,4 +29,5 @@
   * Add file to top of agenda: Ctrl-C, sqOpBr
   * Next Week: f
   * Back 1 Week: b
+  * Export agenda as html: Ctrl-x Ctrl-w <fileName>.html
 
